@@ -1,6 +1,5 @@
-### Hi there 👋
 
-About me
+## Read me
 
 Hi, I'm Eddymens, a hobo with a laptop. I currently live and work in Luxembourg.
 
@@ -10,3 +9,7 @@ Also feel free to reach me via mail hello[at]eddymens.com
 
 ### Projects:
 
+- [Jstmore](https://www.jstmore.com/) 
+- [Devless](https://platform.devless.io/)
+
+#### Localhost: https://eddymens.com
