@@ -9,7 +9,7 @@ Also feel free to reach me via mail hello[at]eddymens.com
 
 ### Projects:
 
-- [Jstmore](https://www.jstmore.com/) 
-- [Devless](https://platform.devless.io/)
+- <a href="https://www.jstmore.com/" target="_blank">Jstmore</a>
+- <a href="https://platform.devless.io/" target="_blank">Devless</a>
 
 #### Localhost: https://eddymens.com
