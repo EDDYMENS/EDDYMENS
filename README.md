@@ -1,15 +1,19 @@
 
 ## Read me
 
-Hi, I'm Eddymens, a typist with a laptop. I currently live and work in Luxembourg.
+Hi my name is Edmond Mensah,
+I enjoy working with anything software, from creating it, writing about it, teaching it to selling it.
 
-I have 5 years experience providing software development training, building and selling software. I currently work with VueJS on the frontend, Laravel on the backend. You can find some of my work here
+In the span of 7 years I have worked on open source software, enterprise solutions as well as worked as a sales engineer.
+These days you will find me writing a lot more about tech. 
 
-Also feel free to reach me via mail hello[at]eddymens.com
+Feel free to reach out primerossgh[at]gmail.com
+
 
 ### Projects:
 
 - <a href="https://www.jstmore.com/" target="_blank">Jstmore</a>
-- <a href="https://platform.devless.io/" target="_blank">Devless</a>
+- <a href="https://github.com/devlessteam" target="_blank">Devless</a>
+- <a href="https://codingterms.com/" target="_blank">Coding Terms (WIP)</a>
 
 #### Localhost: https://eddymens.com
