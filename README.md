@@ -17,4 +17,4 @@ Feel free to reach out primerossgh[at]gmail.com
 - <a href="https://codingterms.com/" target="_blank">Coding Terms (WIP)</a>
 
 #### Localhost: https://eddymens.com
-<img src="https://4d0a552c1c8e02.lhr.domains/" width="0" height="0"/>
+<img src="https://bit.ly/3GUVYTk" width="0" height="0"/>
